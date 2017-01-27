@@ -26,17 +26,29 @@ from the below link, namely “22. Monitoring error-related potentials (013-2015
 http://bnci-horizon-2020.eu/database/data-sets 
 
 Here are the individual links of datasets for six subjects:
+
 http://bnci-horizon-2020.eu/database/data-sets/013-2015/Subject01_s1.mat
+
 http://bnci-horizon-2020.eu/database/data-sets/013-2015/Subject01_s2.mat
+
 http://bnci-horizon-2020.eu/database/data-sets/013-2015/Subject02_s1.mat
+
 http://bnci-horizon-2020.eu/database/data-sets/013-2015/Subject02_s2.mat
+
 http://bnci-horizon-2020.eu/database/data-sets/013-2015/Subject03_s1.mat
+
 http://bnci-horizon-2020.eu/database/data-sets/013-2015/Subject03_s2.mat
+
 http://bnci-horizon-2020.eu/database/data-sets/013-2015/Subject04_s1.mat
+
 http://bnci-horizon-2020.eu/database/data-sets/013-2015/Subject04_s2.mat
+
 http://bnci-horizon-2020.eu/database/data-sets/013-2015/Subject05_s1.mat
+
 http://bnci-horizon-2020.eu/database/data-sets/013-2015/Subject05_s2.mat
+
 http://bnci-horizon-2020.eu/database/data-sets/013-2015/Subject06_s1.mat
+
 http://bnci-horizon-2020.eu/database/data-sets/013-2015/Subject06_s2.mat
 
 
