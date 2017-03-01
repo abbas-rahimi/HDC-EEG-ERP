@@ -104,11 +104,10 @@ function [CiM, iM] = initItemMemories (D, MAXL, minv, maxv, precision, electrode
         for j = minv(c):1/precision(c):maxv(c)
             key = strcat(char(electrodes(c)), '_', int2str(int64 (j * precision(c))));
             CiM(key) = currentHV;
-		    %D / 2 / MAXL = 238
             SP = floor(D/2/MAXL);
-		    startInx = (i*SP) + 1;
-		    endInx = ((i+1)*SP) + 1;
-		    currentHV (randomIndex(startInx : endInx)) = currentHV (randomIndex(startInx: endInx)) * -1;
+	    startInx = (i*SP) + 1;
+	    endInx = ((i+1)*SP);
+	    currentHV (randomIndex(startInx : endInx)) = currentHV (randomIndex(startInx: endInx)) * -1;
             i = i + 1;
         end
     end
